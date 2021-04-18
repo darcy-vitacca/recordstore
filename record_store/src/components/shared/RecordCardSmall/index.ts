@@ -1,0 +1,1 @@
+export { RecordCardSmall } from './RecordCardSmall'
